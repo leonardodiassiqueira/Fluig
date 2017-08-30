@@ -1,0 +1,16 @@
+application.type=widget
+application.code=wgtFluigLog
+application.title=Log
+application.description=Widget para exibi\u00E7\u00E3o do log do ambiente
+application.category=FERRAMENTAS
+application.renderer=freemarker
+developer.code=SPON3978
+developer.name=leonardo.siqueira
+developer.url=http://www.fluig.com
+application.uiwidget=true
+application.mobileapp=false
+view.file=view.ftl
+edit.file=edit.ftl
+
+application.resource.css.1=/resources/css/wgtFluigLog.css
+application.resource.js.2=/resources/js/wgtFluigLog.js
